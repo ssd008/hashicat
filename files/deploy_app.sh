@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="https://avatars2.githubusercontent.com/u/18633986?s=400&v=4"></img></center>
   <center><h2>Hulk Smash CRT!</h2></center>
-  Welcome to ${PREFIX}'s app. I can still remember the sound that CRT made hitting the ground. Good times. 
+  Welcome to ${PREFIX}'s app. I can still remember the sound that CRT made hitting the ground. Good times! 
   <!-- END -->
   
   </div>
